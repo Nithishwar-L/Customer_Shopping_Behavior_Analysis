@@ -10,6 +10,7 @@ This project analyzes customer shopping data to uncover meaningful insights into
 The project follows a complete data analytics workflow, from data exploration and cleaning to SQL-based analysis and interactive dashboard development.
 
 🎯 Project Objectives
+
 Analyze customer purchasing patterns and spending behavior.
 Identify high-performing product categories.
 Explore customer preferences and shopping frequency.
@@ -19,6 +20,7 @@ Develop an interactive dashboard for business decision-making.
 
 
 🛠️ Tools & Technologies
+
 Technology	Purpose
 Python	Data cleaning and analysis
 Pandas	Data manipulation and transformation
@@ -30,6 +32,7 @@ Git & GitHub	Version control and project hosting
 
 
 📂 Project Structure
+
 text
 Customer_Shopping_Behavior_Analysis/
 │
@@ -41,12 +44,17 @@ Customer_Shopping_Behavior_Analysis/
 
 
 📄 File Descriptions
+
 Customer_Shopping_Behavior_Analysis.ipynb — Jupyter Notebook containing Python-based data analysis.
 customer_shopping_behavior.csv — Dataset used for customer shopping analysis.
 shopping_data.sql — SQL queries for analyzing shopping data and extracting business insights.
 Customer_behavio.pbix — Power BI dashboard file for interactive data visualization.
 README.md — Project documentation and setup instructions.
+
+
 🔄 Project Workflow
+
+
 1. Data Collection and Exploration
 Load the customer shopping dataset into Python.
 Examine the dataset structure, column names, and data types.
@@ -71,6 +79,8 @@ Create visual representations of the analysis to make trends and findings easier
 The Power BI dashboard can be explored by opening the .pbix file in Power BI Desktop.
 
 📊 Key Business Questions
+
+
 This project aims to investigate questions such as:
 Which product categories attract customer purchases?
 How does customer spending vary across demographic groups?
@@ -82,6 +92,8 @@ How can customer data support better marketing decisions?
 
 
 💡 Business Value
+
+
 The analysis can help businesses:
 Understand customer preferences and purchasing habits.
 Identify product categories that deserve additional attention.
